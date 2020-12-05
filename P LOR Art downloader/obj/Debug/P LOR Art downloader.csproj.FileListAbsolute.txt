@@ -1,0 +1,20 @@
+C:\Users\Bear\Dropbox\Bjørn\WSE\M RANDOM\P LOR Art downloader\P LOR Art downloader\bin\Debug\P LOR Art downloader.exe.config
+C:\Users\Bear\Dropbox\Bjørn\WSE\M RANDOM\P LOR Art downloader\P LOR Art downloader\bin\Debug\P LOR Art downloader.exe
+C:\Users\Bear\Dropbox\Bjørn\WSE\M RANDOM\P LOR Art downloader\P LOR Art downloader\bin\Debug\P LOR Art downloader.pdb
+C:\Users\Bear\Dropbox\Bjørn\WSE\M RANDOM\P LOR Art downloader\P LOR Art downloader\obj\Debug\P LOR Art downloader.csprojAssemblyReference.cache
+C:\Users\Bear\Dropbox\Bjørn\WSE\M RANDOM\P LOR Art downloader\P LOR Art downloader\obj\Debug\P LOR Art downloader.csproj.CoreCompileInputs.cache
+C:\Users\Bear\Dropbox\Bjørn\WSE\M RANDOM\P LOR Art downloader\P LOR Art downloader\obj\Debug\P LOR Art downloader.exe
+C:\Users\Bear\Dropbox\Bjørn\WSE\M RANDOM\P LOR Art downloader\P LOR Art downloader\obj\Debug\P LOR Art downloader.pdb
+C:\Users\Bear\Dropbox\Bjørn\WSE\M RANDOM\P LOR Art downloader\P LOR Art downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bear\Dropbox\Bjørn\WSE\M RANDOM\P LOR Art downloader\P LOR Art downloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bear\Dropbox\Bjørn\WSE\M RANDOM\P LOR Art downloader\P LOR Art downloader\obj\Debug\P LOR Art downloader.csproj.CopyComplete
+C:\Users\Bear\Dropbox\WSE\P LOR Art downloader\P LOR Art downloader\bin\Debug\P LOR Art downloader.exe.config
+C:\Users\Bear\Dropbox\WSE\P LOR Art downloader\P LOR Art downloader\bin\Debug\P LOR Art downloader.exe
+C:\Users\Bear\Dropbox\WSE\P LOR Art downloader\P LOR Art downloader\bin\Debug\P LOR Art downloader.pdb
+C:\Users\Bear\Dropbox\WSE\P LOR Art downloader\P LOR Art downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bear\Dropbox\WSE\P LOR Art downloader\P LOR Art downloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bear\Dropbox\WSE\P LOR Art downloader\P LOR Art downloader\obj\Debug\P LOR Art downloader.csprojAssemblyReference.cache
+C:\Users\Bear\Dropbox\WSE\P LOR Art downloader\P LOR Art downloader\obj\Debug\P LOR Art downloader.csproj.CoreCompileInputs.cache
+C:\Users\Bear\Dropbox\WSE\P LOR Art downloader\P LOR Art downloader\obj\Debug\P LOR Art downloader.csproj.CopyComplete
+C:\Users\Bear\Dropbox\WSE\P LOR Art downloader\P LOR Art downloader\obj\Debug\P LOR Art downloader.exe
+C:\Users\Bear\Dropbox\WSE\P LOR Art downloader\P LOR Art downloader\obj\Debug\P LOR Art downloader.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bear\Desktop\LoR-Art-Downloader\P LOR Art downloader\bin\Debug\P LOR Art downloader.exe.config
+C:\Users\Bear\Desktop\LoR-Art-Downloader\P LOR Art downloader\bin\Debug\P LOR Art downloader.exe
+C:\Users\Bear\Desktop\LoR-Art-Downloader\P LOR Art downloader\bin\Debug\P LOR Art downloader.pdb
+C:\Users\Bear\Desktop\LoR-Art-Downloader\P LOR Art downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bear\Desktop\LoR-Art-Downloader\P LOR Art downloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bear\Desktop\LoR-Art-Downloader\P LOR Art downloader\obj\Debug\LOR Art downloader.csproj.CoreCompileInputs.cache
+C:\Users\Bear\Desktop\LoR-Art-Downloader\P LOR Art downloader\obj\Debug\LOR Art downloader.csproj.CopyComplete
+C:\Users\Bear\Desktop\LoR-Art-Downloader\P LOR Art downloader\obj\Debug\P LOR Art downloader.exe
+C:\Users\Bear\Desktop\LoR-Art-Downloader\P LOR Art downloader\obj\Debug\P LOR Art downloader.pdb
+C:\Users\Bear\Desktop\LoR-Art-Downloader\P LOR Art downloader\obj\Debug\LOR Art downloader.csprojAssemblyReference.cache
